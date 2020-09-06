@@ -1,0 +1,16 @@
+{
+  "trigger": true,
+  "modules": [
+    "alter-claims"
+  ],
+  "parentResource": "amplifyreactappf80adb0b",
+  "functionName": "amplifyreactappf80adb0bPreTokenGeneration",
+  "resourceName": "amplifyreactappf80adb0bPreTokenGeneration",
+  "parentStack": "auth",
+  "triggerEnvs": "[]",
+  "triggerDir": "/usr/local/lib/node_modules/@aws-amplify/cli/node_modules/amplify-category-auth/provider-utils/awscloudformation/utils/../triggers/PreTokenGeneration",
+  "triggerTemplate": "PreTokenGeneration.json.ejs",
+  "roleName": "amplifyreactappf80adb0bPreTokenGeneration",
+  "skipEdit": true,
+  "triggerEventPath": "PreTokenGeneration.event.json"
+}
