@@ -45,7 +45,7 @@
             "Arn"
         ]
     },
-    "useDefault": "default",
+    "useDefault": "defaultSocial",
     "triggers": "{\"CustomMessage\":[\"verification-link\"],\"PreTokenGeneration\":[\"alter-claims\"]}",
     "userPoolGroupList": [],
     "verificationBucketName": "amplifyreactappf80adb0bverificationbucket",
@@ -73,5 +73,9 @@
             ]
         }
     ],
-    "hostedUI": true
+    "hostedUI": true,
+    "hostedUIDomainName": "amplifyreactapp3ea98ece-3ea98ece",
+    "authProvidersUserPool": [],
+    "hostedUIProviderMeta": "[]",
+    "oAuthMetadata": "{\"AllowedOAuthFlows\":[\"code\"],\"AllowedOAuthScopes\":[\"phone\",\"email\",\"openid\",\"profile\",\"aws.cognito.signin.user.admin\"],\"CallbackURLs\":[\"http://localhost:3001/home/\",\"https://master.dvuu9gltilbtl.amplifyapp.com/home/\"],\"LogoutURLs\":[\"http://localhost:3001/\",\"https://master.dvuu9gltilbtl.amplifyapp.com/\"]}"
 }

@@ -1,0 +1,9 @@
+
+Hosted UI Endpoint: https://amplifyreactapp3ea98ece-3ea98ece-dev.auth.us-east-1.amazoncognito.com/
+Test Your Hosted UI Endpoint: https://amplifyreactapp3ea98ece-3ea98ece-dev.auth.us-east-1.amazoncognito.com/login?response_type=code&client_id=44cr8o7jualngleppq74fmkiv3&redirect_uri=http://localhost:3001/home/
+
+
+
+
+// var(--main-red);
+//#d30913
